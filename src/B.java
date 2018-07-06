@@ -1,5 +1,6 @@
 public class B {
     private  int i;
+    private  int anInt;
     private String d;
 
     public int getI() {
