@@ -1,6 +1,6 @@
 public class A {
     private int a;
-    private  int anInt;
+
     private boolean c;
 
     public boolean isC() {

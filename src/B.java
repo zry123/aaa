@@ -1,6 +1,6 @@
 public class B {
     private  int i;
-    private int as;
+    
     private String d;
 
     public int getI() {
